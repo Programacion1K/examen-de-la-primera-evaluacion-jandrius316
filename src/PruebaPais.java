@@ -1,6 +1,6 @@
 public class PruebaPais {
     public static void main(String[] args) {
-        Descomentar para probar una vez resuelto
+        
         PaisEuropeo espanya=new PaisEuropeo("España",1000);
         PaisEuropeo reinoUnido=new PaisEuropeo("Reino Unido",3000,"uk");
 
