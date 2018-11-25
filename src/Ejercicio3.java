@@ -8,7 +8,7 @@ public class Ejercicio3 {
 		{
 			for (int j = 0; j < 5; j++)
 			{
-				//El if es necesario para no imprimir el primer 0
+				
 				if (i == 0 && j == 0)
 					System.out.print("  ");
 				else
